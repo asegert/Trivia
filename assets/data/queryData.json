@@ -1,0 +1,346 @@
+{
+   "games": [
+       {
+           "levels":[
+                    {
+                        "queries": [
+                                    {
+                                        "question": "What was Canada's first\nnational sport?",
+                                        "availAns": ["Soccer", "Hockey", "Lacrosse", "Cricket"],
+                                        "answer": [false, false, false, true],
+                                        "type": 0
+                                    },
+                                    {
+                                        "question": "What is Canada's official\nsummer sport?",
+                                        "availAns": ["Curling", "Hockey", "Basketball", "Lacrosse"],
+                                        "answer": [false, false, false, true],
+                                        "type": 1
+                                    },
+                                    {
+                                        "question": "What year did Canada's\nmen's soccer team win\ngold at the Olympics?",
+                                        "availAns": ["1904", "1880", "1995", "1909"],
+                                        "answer": [true, false, false, false],
+                                        "type": 2
+                                    } 
+                                    ]
+                    },
+                    {
+                        "queries": [
+                                    {
+                                        "question": "Who donated the biggest\nprize in Canadian\nfootball in 1909?",
+                                        "availAns": ["Lord Stanley", "Earl Grey", "Captain Canuck", "Arthur Currie"],
+                                        "answer": [false, true, false, false],
+                                        "type": 0
+                                    },
+                                    {
+                                        "question": "Where did the first\n18-hole golf course\nappear in Canada?",
+                                        "availAns": ["Montreal", "Niagara Falls", "Victoria", "Dartmouth"],
+                                        "answer": [false, false, true, false],
+                                        "type": 1
+                                    },
+                                    {
+                                        "question": "Which Canadian Hockey\nteam was the first to win\ngold at the Olympics? ",
+                                        "availAns": ["Winnipeg Falcons", "Vancouver Canucks", "Montreal Canadians", "Calgary Flames"],
+                                        "answer": [true, false, false, false],
+                                        "type": 2
+                                    },
+                                    {
+                                        "question": "How many common sports\nwere invented by Canadians?",
+                                        "availAns": ["2", "4", "3", "5"],
+                                        "answer": [false, false, true, false],
+                                        "type": 3
+                                    },
+                                    {
+                                        "question": "Who was the first person\nto wear a goalie mask in\na hockey game?",
+                                        "availAns": ["Rebbecca Black", "Travis Anderson", "Elizabeth Graham", "Wayne Gretzky"],
+                                        "answer": [false, false, true, false],
+                                        "type": 4
+                                    }     
+                                    ]
+                    },
+                    {
+                        "queries": [
+                                    {
+                                        "question": "What sport did McGill\nUniversity phys-ed\nteacher Dr. James\nNaismith create?",
+                                        "availAns": ["Soccer", "Lacrosse", "Hockey", "Basketball"],
+                                        "answer": [false, false, false, true],
+                                        "type": 0
+                                    },
+                                    {
+                                        "question": "In what year was the\nNational Hockey League\nestablished?",
+                                        "availAns": ["1909", "1890", "1899", "1901"],
+                                        "answer": [true, false, false, false],
+                                        "type": 1
+                                    },
+                                    {
+                                        "question": "Who did the Canadian's\nadopt lacrosse from?",
+                                        "availAns": ["USA", "Britain", "First Nations", "French"],
+                                        "answer": [false, false, true, false],
+                                        "type": 2
+                                    },
+                                    {
+                                        "question": "What city had Canada's\nfirst bowling alley in\n1905?",
+                                        "availAns": ["Vancouver", "Toronto", "Montreal", "Regina"],
+                                        "answer": [false, true, false, false],
+                                        "type": 3
+                                    },
+                                    {
+                                        "question": "Babe Ruth hit his first\nprofessional home run in\nwhich Canadian City?",
+                                        "availAns": ["Ottawa", "Vancouver", "Edmonton", "Toronto"],
+                                        "answer": [false, false, false, true],
+                                        "type": 4
+                                    },
+                                    {
+                                        "question": "In what year did Canada\nfirst compete in the\nParalympics?",
+                                        "availAns": ["1949", "1968", "1955", "1931"],
+                                        "answer": [false, true, false, false],
+                                        "type": 5
+                                    },
+                                    {
+                                        "question": "How many Canadian teams are\nin the NHL?",
+                                        "availAns": ["9", "5", "7", "12"],
+                                        "answer": [false, false, true, false],
+                                        "type": 6
+                                    } 
+                                    ]
+                    }
+                    ],
+           "label": "hockey",
+           "right": "applause",
+           "wrong": "buzzer",
+           "theme": "sports",
+           "query": 100,
+           "answer": 250
+       }, 
+       {
+           "levels":[
+                    {
+                        "queries": [
+                                    {
+                                        "question": "Name the one famous\nsinger that passed\naway last year?",
+                                        "availAns": ["Michael Jackson", "Gord Bamford", "Gord Downy Jr", "Robert Downey Jr"],
+                                        "answer": [false, false, true, false],
+                                        "type": 0
+                                    },
+                                    {
+                                        "question": "What Canadian rock band\nwas a major component in\nthe video game Guitar\nHero?",
+                                        "availAns": ["Rush", "Tragically Hip", "Nickelback", "Loverboy"],
+                                        "answer": [true, false, false, false],
+                                        "type": 1
+                                    },
+                                    {
+                                        "question": "Name that song: 'Don’t\ncome knockin’ round my\ndoor, don’t wanna see\nyour face no more'?",
+                                        "availAns": ["Cherry Pie", "That Woman", "Go Away", "American Woman"],
+                                        "answer": [false, false, false, true],
+                                        "type": 2
+                                    }  
+                                    ]
+                    },
+                    {
+                        "queries": [
+                                    {
+                                        "question": "Mahogany Rush’s guitarist\nFrank Marino is often\ncompared to what other\nfamous guitarist?",
+                                        "availAns": ["Jimmy Hendrix", "Chad Kroeger", "Neil Young", "Bryan Adams"],
+                                        "answer": [true, false, false, false],
+                                        "type": 0
+                                    },
+                                    {
+                                        "question": "Which Vancouver\nbased rock band had hits\nlike 'Pretty Lady',\n'Raise a little Hell'?",
+                                        "availAns": ["Hedley", "Trooper", "Loverboy", "Lighthouse"],
+                                        "answer": [false, true, false, false],
+                                        "type": 1
+                                    },
+                                    {
+                                        "question": "Name the Canadian singer\nthat starred in the Movie\n'Dogma'?",
+                                        "availAns": ["Alanis Morrissette", "Celine Dion", "Drake", "Shania Twain"],
+                                        "answer": [true, false, false, false],
+                                        "type": 2
+                                    },
+                                    {
+                                        "question": "Feist performed her song\n'1 2 3 4' on what PBS show?",
+                                        "availAns": ["Cyberchase", "Sesame Street", "Arthur", "Clifford"],
+                                        "answer": [false, true, false, false],
+                                        "type": 3
+                                    },
+                                    {
+                                        "question": "Who sang the Theme song\nfor the 2002 release of\n'Spiderman'?",
+                                        "availAns": ["Adele", "Chad Kroeger", "Celine Dion", "Drake"],
+                                        "answer": [false, true, false, false],
+                                        "type": 4
+                                    } 
+                                    ]
+                    },
+                    {
+                        "queries": [
+                                    {
+                                        "question": "Finish the Line from\nLoverboy’s Working for\nthe Weekend: Everybody’s\nworkin’ for the weekend,\nEverybody wants...",
+                                        "availAns": ["a real romance", "a true romance", "a sweet romance", "a new romance"],
+                                        "answer": [false, false, false, true],
+                                        "type": 0
+                                    },
+                                    {
+                                        "question": "What rock band coined the\nterm 'heavy metal thunder'?",
+                                        "availAns": ["Steppenwolf", "Loverboy", "Tragically Hip", "Nickelback"],
+                                        "answer": [true, false, false, false],
+                                        "type": 1
+                                    },
+                                    {
+                                        "question": "What band won the Juno\nGroup of the Year award in 2017?",
+                                        "availAns": ["Pink Floyd", "The Beatles", "Tragically Hip", "Arcade Fire"],
+                                        "answer": [false, false, true, false],
+                                        "type": 2
+                                    },
+                                    {
+                                        "question": "Who sang 'Summer of '69'?",
+                                        "availAns": ["Justin Beiber", "Bryan Adams", "Chad Kroeger", "Neil Young"],
+                                        "answer": [false, true, false, false],
+                                        "type": 3
+                                    },
+                                    {
+                                        "question": "Hemispheres is recorded\nby what band?",
+                                        "availAns": ["Loverboy", "Arcade Fire", "Hedley", "Rush"],
+                                        "answer": [false, false, false, true],
+                                        "type": 4
+                                    },
+                                    {
+                                        "question": "What Canadian artist has\nbeen inducted into the\nRock Hall of fame both as\na solo artist and as part\nof a band?",
+                                        "availAns": ["Neil Young", "Chad Kroeger", "Andrew Allen", "Keith Richards"],
+                                        "answer": [true, false, false, false],
+                                        "type": 5
+                                    },
+                                    {
+                                        "question": "Name Rush’s first Chart\ntopping single?",
+                                        "availAns": ["A part of my Heart", "Closer to the Heart", "Close my Heart", "Open my Heart"],
+                                        "answer": [false, true, false, false],
+                                        "type": 6
+                                    },
+                                    {
+                                        "question": "Which Canadian band\nfounded the 'Sumersault'\nMusic Festival?",
+                                        "availAns": ["Nickelback", "Our Lady Peace", "Arcade Fire", "The Guess Who"],
+                                        "answer": [false, true, false, false],
+                                        "type": 7
+                                    }   
+                                    ]
+                    }
+                    ],
+           "label": "music",
+           "right": "riff",
+           "wrong": "feedback",
+           "theme": "music",
+           "query": 100,
+           "answer": 300     
+       },
+       {
+           "levels":[
+                    {
+                        "queries": [
+                                    {
+                                        "question": "Which province was the\nlast one to join Canada?",
+                                        "availAns": ["Manitoba", "BC", "Newfoundland", "Alberta"],
+                                        "answer": [false, false, true, false],
+                                        "type": 0
+                                    },
+                                    {
+                                        "question": "Confederation was\nofficially proclaimed on\nJuly 1 of what year?",
+                                        "availAns": ["1867", "1866", "1876", "1877"],
+                                        "answer": [true, false, false, false],
+                                        "type": 1
+                                    },
+                                    {
+                                        "question": "Which Province didn't\nattend the Quebec\nConference?",
+                                        "availAns": ["Ontario", "Labrador", "Manitoba", "BC"],
+                                        "answer": [false, false, false, true],
+                                        "type": 2
+                                    }  
+                                    ]
+                    },
+                    {
+                        "queries": [
+                                    {
+                                        "question": "When did the name Canada\nbegin first appearing on\nmaps?",
+                                        "availAns": ["1550s", "1600s", "1540s", "1580s"],
+                                        "answer": [true, false, false, false],
+                                        "type": 0
+                                    },
+                                    {
+                                        "question": "In what year did O Canada\nofficially become the\nNational Anthem?",
+                                        "availAns": ["1990", "1980", "1975", "1985"],
+                                        "answer": [false, true, false, false],
+                                        "type": 1
+                                    },
+                                    {
+                                        "question": "In what year did the\nfirst Tim Hortons open in\nHamilton Ontario?",
+                                        "availAns": ["1964", "1973", "1961", "1967"],
+                                        "answer": [true, false, false, false],
+                                        "type": 2
+                                    },
+                                    {
+                                        "question": "Which province was the\nfirst province to grant\nwomen the right to vote?",
+                                        "availAns": ["Ontario", "Manitoba", "Quebec", "Saskatchewan"],
+                                        "answer": [false, true, false, false],
+                                        "type": 3
+                                    },
+                                    {
+                                        "question": "Which superhero was\ncreated by a Canadian?",
+                                        "availAns": ["Batman", "Superman", "Wonder Woman", "The Flash"],
+                                        "answer": [false, true, false, false],
+                                        "type": 4
+                                    }    
+                                    ]
+                    },
+                    {
+                        "queries": [
+                                    {
+                                        "question": "What year did Canada\nproduce the toonie?",
+                                        "availAns": ["1991", "1993", "1994", "1996"],
+                                        "answer": [false, false, false, true],
+                                        "type": 0
+                                    },
+                                    {
+                                        "question": "What year did Canada get\nit's official flag?",
+                                        "availAns": ["1965", "1870", "1897", "1654"],
+                                        "answer": [true, false, false, false],
+                                        "type": 1
+                                    },
+                                    {
+                                        "question": "The term 'trick or treat'\nwas first used in which\nCanadian Province?",
+                                        "availAns": ["Ontario", "Alberta", "Quebec", "Manitoba"],
+                                        "answer": [false, true, false, false],
+                                        "type": 2
+                                    },
+                                    {
+                                        "question": "How many time zones are\nthere in Canada?",
+                                        "availAns": ["2", "3", "5", "6"],
+                                        "answer": [false, false, false, true],
+                                        "type": 3
+                                    },
+                                    {
+                                        "question": "What is the name of the\nhighest mountain in\nCanada?",
+                                        "availAns": ["Mount Logan", "Mount Robson", "Mount Steele", "Mount Waddington"],
+                                        "answer": [true, false, false, false],
+                                        "type": 4
+                                    },
+                                    {
+                                        "question": "Thousands of miners\nflocked to which Canadian\nTerritory during the gold\nrush?",
+                                        "availAns": ["Nunavut", "Yukon", "Alaska", "Northwest Territories"],
+                                        "answer": [false, true, false, false],
+                                        "type": 5
+                                    },
+                                    {
+                                        "question": "What famous Canadian led\nthe suffragette movement\nacross the country?",
+                                        "availAns": ["Kim Campbell", "Celine Dion", "Emily Carr", "Nellie McClung"],
+                                        "answer": [false, false, false, true],
+                                        "type": 6
+                                    }    
+                                    ]
+                    }
+                    ],
+           "label": "history",
+           "right": "elephant",
+           "wrong": "crow",
+           "theme": "sports",
+           "query": 100,
+           "answer": 250
+       }
+   ]
+}

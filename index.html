@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Trivia</title>
+	<meta name="description" content="Trivia" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+	<style>
+		.background-new {
+		  background: url(assets/images/gameback.jpg) no-repeat center center fixed;
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+          margin: 0px;
+		}
+        #ieError{
+                font-family: Arial;
+                font-size: 3.5rem;
+                text-align: center;
+                margin-top:  15%;
+                color: #FF0000;
+        }
+        #ieError a{
+                font-size: 1.5rem;
+                color:  #FFFFFF;
+            }
+        #ieError a#continue{
+                font-size: 2.5rem;
+                color:  #FFFFFF;
+            }
+ </style>
+</head>
+<body class="background-new">
+    <div id="ieError"></div>
+	<form runat='server' id="form1" name='form1' method='POST' action="">
+			<input type="hidden" id="player_score" value="" runat="server" />
+			<input type="hidden" id="__ErrorMessage" value="" runat="server" />
+	</form>
+
+	    <script type="text/javascript" src="js/phaser.min.js"></script>
+        <script type="text/javascript" src="js/states/Boot.js"></script>
+		<script type="text/javascript" src="js/states/Preload.js"></script>
+		<script type="text/javascript" src="js/states/Game.js"></script>
+        <script type="text/javascript" src="js/states/Story.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
