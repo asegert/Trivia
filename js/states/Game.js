@@ -132,6 +132,8 @@ Trivia.GameState = {
     {
         //Add overlay
         this.gameOverlay = this.add.sprite(0 + Trivia.offsetX, 0 + Trivia.offsetY, this.overlay[this.currLevel]);
+        //Displays number of questions left
+        this.questionsLeft=this.add.text(0, 550, "Questions Left: "+(this.allData.games[this.gameIndex].levels[this.currLevel].queries.length - this.currQuestion), {fill: '#FFFFFF'});
         //Hint button removes 1 answer
         this.hint = this.add.button(50 + Trivia.offsetX, 50 + Trivia.offsetY, 'hint', function()
         {
@@ -382,7 +384,8 @@ Trivia.GameState = {
   },
   endAnim: function()
   {
-       //LightWave Effect
+      this.questionsLeft.destroy();
+      //LightWave Effect
       var fragmentSrc = [
                         "precision mediump float;",
                         "uniform float     time;",
